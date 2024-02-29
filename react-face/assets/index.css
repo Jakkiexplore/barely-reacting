@@ -1,0 +1,155 @@
+* { 
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',sans-serif;
+
+}
+
+Body {
+    background: #E3D1CD;
+    color:#000000;
+}
+/* Navbar */
+.Header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background: #C87866;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+
+}
+
+.logo {
+    font-size: 25px;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+
+.navbar a {
+    font-size: 18px;
+    color:#000000;
+    text-decoration: none;
+    font-weight: 500; 
+    margin-left: 35px;
+
+}
+
+.navbar a:hover {
+    color: #7E3D3D;
+}
+/*  End of  Navbar */
+
+
+
+/*  Home page content */
+  
+.Home {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+}
+
+#landing-page h1 {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#landing-page h3 {
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 5px;
+    margin: 15px 0 20px;
+}
+
+#landing-page p {
+    font-size: 20px;
+    font-weight: 100;
+    margin: 15px 0 30px;
+    
+}
+
+/* End of Home page content */
+
+
+
+/* About me Content*/
+ .About {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+ }
+
+ #about-content h1 {
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 5px;
+    margin: 15px 0 20px;
+ }
+
+ #about-content p {
+    font-size: 22px;
+    font-weight: 100;
+    margin: 15px 0 30px;
+    
+ }
+
+/* End of About me Content*/
+
+
+
+/* Portfolio Content */
+.portfolio {
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+
+}
+
+#portfolio-content h2 {
+    font-size: 22px;
+    font-weight: 100;
+    margin: 15px 0 30px;
+
+}
+#portfolio-content h1 {
+    font-size: 55px;
+    letter-spacing: 1px;
+    margin: 100px;
+    height: 50vh;
+}
+
+/* End of Portfolio Content*/
+
+
+
+
+/*Contact me Content*/
+ .contact {
+    display: flex;
+    align-items: center;
+    padding:  0 10%;
+    
+ }
+
+ #contact-content {
+    height:20vh;
+    font-size: 22px;
+    font-weight: 10;
+    margin: 15px 0 30px;
+
+ }
+ #contact-content ol {
+
+    
+ }
+
+/*End of Contact me Content*/

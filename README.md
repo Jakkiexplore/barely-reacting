@@ -1,8 +1,10 @@
 # barely-reacting
 
 ### Challenge title
+* React Challenge: React Portfolio
 
 ## Description
+* In this project I was tasked with creating a portfolio using react. 
 
 ## User Story
 * AS AN employer looking for candidates with experience building single-page applications
@@ -51,15 +53,11 @@
 
 
 ## Installation
--
--
--
--
--
--
+- Make sure to click on index.html to load page with content
+
 
 ## Screenshot
-- ![]()
+- ![Portfolio](./react-face/assets/images/SS%20of%20portfolio.png)
 
 
 ## Links
@@ -70,4 +68,4 @@
 
 
 ## Credits
-
+-[react-icons used for Navbar.jsx](https://react-icons.github.io/react-icons/)
