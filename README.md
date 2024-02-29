@@ -40,15 +40,12 @@
 - THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 
 ## Table of Contents
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [User Story](#user-story)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Installation](#installation)
+* [Screenshot](#screenshot)
+* [Links](#links)
+
 
 
 
@@ -61,8 +58,8 @@
 
 
 ## Links
-- []()
-- []()
+- [github](https://github.com/Jakkiexplore/REACTive)
+
 
 
 
