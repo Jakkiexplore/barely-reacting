@@ -58,11 +58,13 @@
 
 
 ## Links
-- [github](https://github.com/Jakkiexplore/REACTive)
+- [github](https://github.com/Jakkiexplore/barely-reacting)
 
 
 
 
 
 ## Credits
--[react-icons used for Navbar.jsx](https://react-icons.github.io/react-icons/)
+- [react-icons used for Navbar.jsx](https://react-icons.github.io/react-icons/)
+- https://tailwindcss.com/docs/guides/vite
+- uses [Babel](https://babeljs.io/) for Fast Refresh
